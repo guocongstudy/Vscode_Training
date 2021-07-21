@@ -1,0 +1,5 @@
+1.马哥教育后面的《项目中转站》项目的github地址：
+https://github.com/infraboard/cloudstation
+
+2.go mod init Vscode_demo
+去创建go.mod一个文件，有了这个文件就不用说是项目一定要在src中进行依赖，可以存放在其他地方。
