@@ -29,6 +29,8 @@ func (dh *dingHook) level() []logger.Level {
 
 // Fire -Fire代表 具体执行什么逻辑
 func (dh *dingHook) Fire(e *logger.Entry) error {
+	msg,_:=e.String()
+	dh.DirectSend(msg)
 	return nil
 }
 
