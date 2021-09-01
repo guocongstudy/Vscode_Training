@@ -1,14 +1,12 @@
 package main
 
-//import "go/types"
-//
-//type Stack Struct {
-//	store []Item
-//}
-////泛型
-//type Item interface {}
-//
-////构建函数
-//func NewStack()*Stack{
-//	return &Stack{}
-//}
+/*好的视频有哪些点
+1.笑点
+2.泪点
+3.新奇点
+4.美点
+5.吐槽点
+*/
+
+//1.牛鞭-流鼻血
+//2.旅顺-日本街
